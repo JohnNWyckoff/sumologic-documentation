@@ -41,7 +41,7 @@ Here’s one row from the List view. The numbered definitions below correspond t
    * How long it's been since the last Signal fired associated with the Insight fired.
 7. The visualization plots the Insight's Signals over time (x-axis) by severity (y-axis). 
    
-### Board view
+### Board view (also called Kanban)
 
 This screenshot shows the Insights page with the Signals organized as a Board. Each of the columns corresponds to an Insight Status value. (One of the Status values shown is a [custom Insight Status](../administration/manage-custom-insight-statuses.md)).
 
